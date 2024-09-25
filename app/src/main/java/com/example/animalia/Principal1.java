@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
@@ -52,4 +53,18 @@ public class Principal1 extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+    public void Alerta(View v){
+        Intent i= new Intent(this, Alerta.class);
+        startActivity(i);
+    }
+
+    public  void Donacion(View v){
+        Intent i= new Intent(this, Donacion.class);
+        startActivity(i);
+    }
+    public  void InfoSalud(View v){
+        Intent i= new Intent(this, Salud.class);
+        startActivity(i);
+    }
+
 }
