@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Animalia</string>
+    <string name="Correo">Correo</string>
+    <string name="Contrasenia">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasenia2">Repetir Contraseña</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="titulo">Crea una cuenta</string>
+    <string name="registrate">Registrarse</string>
+    <string name="olvidecontrasenia">Olvide mi Contraseña</string>
+    <string name="perfil">Perfil</string>
+    <string name="notificaciones">Notificaciones</string>}
+    <string name="publicacion">Publicación</string>
+    <string name="busqueda">Busqueda</string>
+    <string name="texto">Perrito es encontrado en poblacion colonias extranjeras</string>
+    <string name="ubicacion"> Ubicación</string>
+
+</resources>
