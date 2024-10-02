@@ -125,7 +125,8 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:onClick="Registro"
-            android:text="@string/btnRegistrar" />
+            android:text="@string/btnRegistrar"
+            android:textColorLink="@color/design_default_color_secondary" />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

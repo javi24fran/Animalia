@@ -10,9 +10,12 @@
     <string name="registrate">Registrarse</string>
     <string name="olvidecontrasenia">Olvide mi Contraseña</string>
     <string name="perfil">Perfil</string>
+    <string name="Foto">Cambiar foto perfil</string>
+    <string name="Nperfil">Nombre perfil</string>
+    <string name="Correoperfil">Correo</string>
     <string name="notificaciones">Notificaciones</string>}
     <string name="publicacion">Publicación</string>
-    <string name="busqueda">Busqueda</string>
+    <string name="busqueda">Búsqueda</string>
     <string name="texto">Perrito es encontrado en poblacion colonias extranjeras</string>
     <string name="ubicacion"> Ubicación</string>
 
