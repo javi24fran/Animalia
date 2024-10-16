@@ -1,6 +1,8 @@
 package com.example.animalia;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -20,5 +22,9 @@ public class Alerta extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+    }
+    public void alerta (View v) {
+        System.out.println("reporte");
+        Toast.makeText(this, "Reportado con exito", Toast.LENGTH_SHORT).show();
     }
 }

@@ -1,6 +1,8 @@
 package com.example.animalia;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,5 +23,9 @@ public class Olvidarcuenta extends AppCompatActivity {
             return insets;
         });
 
+    }
+    public void olvidarcontrasenia (View v) {
+        Intent i = new Intent(this, Principal1.class);
+        startActivity(i);
     }
 }

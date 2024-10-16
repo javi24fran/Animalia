@@ -9,6 +9,9 @@
     <string name="titulo">Crea una cuenta</string>
     <string name="registrate">Registrarse</string>
     <string name="olvidecontrasenia">Olvide mi Contraseña</string>
+    <string name="ingresarnuevacontrasenia"> Ingresar nueva contraseña</string>
+    <string name="repetirnuevacontrasenia"> Repetir nueva contraseña</string>
+    <string name="btnRecuperar"> Recuperar</string>
     <string name="perfil">Perfil</string>
     <string name="Foto">Cambiar foto perfil</string>
     <string name="Nperfil">Nombre perfil</string>
@@ -18,5 +21,9 @@
     <string name="busqueda">Búsqueda</string>
     <string name="texto">Perrito es encontrado en poblacion colonias extranjeras</string>
     <string name="ubicacion"> Ubicación</string>
+    <string name="descripcion"> Breve descripción</string>
+    <string name="fecha"> Fecha (ultima vez que lo vio )</string>
+    <string name="lugar"> Lugar (dónde fue visto por ultima vez)</string>
+    <string name="Reportar">Reportar</string>
 
 </resources>
